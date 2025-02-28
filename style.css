@@ -53,7 +53,7 @@ body {
 }
 
 .navbar a:hover {
-  color: #0ef;
+  color: rgb(0, 255, 34);
   text-decoration: underline;
 }
 
@@ -105,7 +105,7 @@ body {
 }
 
 .home-content h4 span {
-  color: #0ef;
+  color: #d7ef00;
   font-size: 32px;
   font-weight: 700;
 }
@@ -121,10 +121,10 @@ body {
   width: 40px;
   height: 40px;
   background: transparent;
-  border: 2px solid #0ef;
+  border: 2px solid #d7ef00;
   border-radius: 50%;
   font-size: 20px;
-  color: #0ef;
+  color: #d7ef00;
   text-decoration: none;
   margin: 30px 15px 30px 0;
   opacity: 0;
@@ -133,15 +133,15 @@ body {
 }
 
 .home-sci a:hover {
-  background: #0ef;
+  background: #d7ef00;
   color: #000;
-  box-shadow: 0 0 20px #0ef;
+  box-shadow: 0 0 20px #d7ef00;
 }
 
 .btn-box {
   display: inline-block;
   padding: 12px 28px;
-  background: #0ef;
+  background: #d7ef00;
   border-radius: 40px;
   font-size: 15px;
   text-align: center;
@@ -155,14 +155,14 @@ body {
 }
 
 .btn-box:hover {
-  box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50pc cyan, 0 0 100px cyan,
-    0 0 200px cyan;
+  box-shadow: 0 0 5px rgb(0, 255, 4), 0 0 25px rgb(0, 255, 4),
+    0 0 50pc rgb(0, 255, 4), 0 0 100px rgb(0, 255, 4), 0 0 200px rgb(0, 255, 4);
 }
 
 .img {
   display: inline-block;
   left: 55%;
-  bottom: 15%;
+  bottom: 3%;
   margin-right: 5%;
   padding: 0;
   background-repeat: no-repeat;
@@ -212,7 +212,7 @@ body {
   max-width: 492px;
   max-height: 492px;
   border-radius: 90px;
-  border: #0ef 5px solid;
+  border: #d7ef00 5px solid;
 }
 
 .about-text {
@@ -225,7 +225,7 @@ body {
 }
 
 .about-text h2 span {
-  color: #0ef;
+  color: #d7ef00;
 }
 
 .about-text p {
@@ -241,7 +241,7 @@ body {
 .abtbtn-box {
   display: inline-block;
   padding: 12px 28px;
-  background: #0ef;
+  background: #d7ef00;
   border-radius: 40px;
   font-size: 15px;
   text-align: center;
@@ -252,8 +252,8 @@ body {
 }
 
 .abtbtn-box:hover {
-  box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50pc cyan, 0 0 100px cyan,
-    0 0 200px cyan;
+  box-shadow: 0 0 5px rgb(0, 255, 4), 0 0 25px rgb(0, 255, 4),
+    0 0 50pc rgb(0, 255, 4), 0 0 100px rgb(0, 255, 4), 0 0 200px rgb(0, 255, 4);
 }
 
 /* Skills */
@@ -268,7 +268,7 @@ body {
 }
 
 .subtitle span {
-  color: #0ef;
+  color: #d7ef00;
 }
 
 .sec {
@@ -339,7 +339,7 @@ body {
 
 .Technical-bars .bar .progress-line span {
   height: 100%;
-  background-color: #0ef;
+  background-color: #d7ef00;
   position: absolute;
   border-radius: 10px;
   animation: animate 1s 1s cubic-bezier(1, 0, 0.5, 1) forwards;
@@ -451,7 +451,7 @@ body {
 
 .path {
   stroke-width: 10;
-  stroke: #0ef;
+  stroke: #d7ef00;
   fill: transparent;
   stroke-dasharray: 502;
   stroke-dashoffset: 502;
@@ -505,7 +505,7 @@ body {
 }
 
 .main-text h2 span {
-  color: #0ef;
+  color: #d7ef00;
 }
 
 .serv-container {
@@ -539,7 +539,7 @@ body {
   max-height: 300px;
   height: 0;
   opacity: 0;
-  background: linear-gradient(rgba(255, 255, 255, 0.5), #0ef);
+  background: linear-gradient(rgba(255, 255, 255, 0.5), #d7ef00);
   position: absolute;
   border-radius: 8px;
   left: 0;
@@ -570,7 +570,7 @@ body {
 }
 
 .layer i {
-  color: #0ef;
+  color: #d7ef00;
   margin-top: 20px;
   font-size: 20px;
   background: #000;
@@ -605,7 +605,7 @@ body {
 }
 
 .sub-title span {
-  color: #0ef;
+  color: #d7ef00;
 }
 
 .prj-list {
@@ -624,7 +624,7 @@ body {
   border-radius: 20px;
   transition: background 0.5s, transform 0.5s;
   /*box-shadow: 1px 1px 20px #012290f7, 1px 1px 40px #0053b8f7;*/
-  border: #0ef 5px solid;
+  border: #d7ef00 5px solid;
 }
 
 .container {
@@ -653,7 +653,7 @@ body {
 .read {
   display: inline-block;
   padding: 12px 20px;
-  background: #0ef;
+  background: #d7ef00;
   border-radius: 40px;
   font-size: 25px;
   color: #081b29;
@@ -666,8 +666,8 @@ body {
 }
 
 .read:hover {
-  box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50pc cyan, 0 0 100px cyan,
-    0 0 200px cyan;
+  box-shadow: 0 0 5px rgb(0, 255, 4), 0 0 25px rgb(0, 255, 4),
+    0 0 50pc rgb(0, 255, 4), 0 0 100px rgb(0, 255, 4), 0 0 200px rgb(0, 255, 4);
 }
 
 .prj-list div:hover {
@@ -698,7 +698,7 @@ body {
 }
 
 .contact-text h2 span {
-  color: #0ef;
+  color: #d7ef00;
 }
 
 .contact-text h4 {
@@ -707,7 +707,6 @@ body {
   font-size: 20px;
   font-weight: 600;
 }
-
 
 .contact-list {
   margin-bottom: 3rem;
@@ -722,7 +721,7 @@ body {
 
 .contact-list i {
   display: inline-block;
-  color: #0ef;
+  color: #d7ef00;
   font-size: 20px;
   font-weight: 600;
   transition: all 0.4s ease;
@@ -736,19 +735,19 @@ body {
   width: 40px;
   height: 40px;
   background: transparent;
-  border: 2px solid #0ef;
+  border: 2px solid #d7ef00;
   border-radius: 50%;
   font-size: 20px;
-  color: #0ef;
+  color: #d7ef00;
   text-decoration: none;
   margin: 0px 15px 0px 0;
   opacity: 1;
 }
 
 .contact-icons i:hover {
-  background: #0ef;
+  background: #d7ef00;
   color: #000;
-  box-shadow: 0 0 20px #0ef;
+  box-shadow: 0 0 20px #d7ef00;
 }
 
 .last-text p {
@@ -776,14 +775,15 @@ body {
 
 .top i {
   color: black;
-  background: #0ef;
+  background: #d7ef00;
   font-size: 20px;
   padding: 10px;
   border-radius: 0.5rem;
 }
 
 .top i:hover {
-  box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50px cyan, 0 0 200px cyan;
+  box-shadow: 0 0 5px rgb(0, 255, 4), 0 0 25px rgb(0, 255, 4),
+    0 0 50pc rgb(0, 255, 4), 0 0 100px rgb(0, 255, 4), 0 0 200px rgb(0, 255, 4);
 }
 
 @keyframes animate-path1 {
